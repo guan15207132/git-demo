@@ -16,6 +16,7 @@ hello atguigu!  hello leizhou!
 hello atguigu!  hello leizhou!
 hello atguigu!  hello leizhou! 
 hello atguigu!  hello leizhou! hello master
+hello atguigu!  hello leizhou! hello hot-fix
 hello atguigu!  hello leizhou!
 111111111111111111111111111111
 111111111111111111111111222222
